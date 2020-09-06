@@ -10,6 +10,12 @@ http://newosxbook.com/ent.jl
 
 https://medium.com/@duwei199714/ios-why-the-ui-need-to-be-updated-on-main-thread-fd0fef070e7f
 
+## Arm Instruction <-> bytecode converter
+
+https://armconverter.com/
+
+This is great for patching, RE, or plenty of other things. Wish I'd found it earlier
+
 dispatch_async(dispatch_get_main_queue(), ^{
    // Async UI Code goes here
 });
